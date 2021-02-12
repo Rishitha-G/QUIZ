@@ -1,0 +1,160 @@
+[{
+	"question": "Name of the first Atomic Submarine of India?",
+	"options": ["A. I.N.S Chakra", 
+		"B. R.N. Shukla", 
+		"C. D.B. Mahawar", 
+		"D. V.R. Gill"],
+	"answer": "A. I.N.S Chakra"
+},
+{
+	"question": "What is the name of first British to visit India?",
+	"options": ["A. Hawkins", 
+		"B. Norway", 
+		"C. Devid", 
+		"D. George Bush"],
+	"answer": "A. Hawkins"
+},
+{
+	"question": "Name of the first university of India?",
+	"options": ["A. Nalanda University", 
+		"B. Taxshila University", 
+		"C. Jawahar University", 
+		"D. Dronacharya University"],
+	"answer": "A. Nalanda University"
+},
+{
+	"question": "Where is India's First nuclear centre?",
+	"options": ["A. Jaipur", 
+		"B. Kanpur", 
+		"C. Tarapur", 
+		"D. Raipur"],
+	"answer": "C. Tarapur"
+},
+{
+	"question": "Name of first foreign recipient of Bharat Ratna?",
+	"options": ["A. R.N. Shukla", 
+		"B. Khan Abdul Gaffar Khan", 
+		"C. V.R. Gill", 
+		"D. D.B. Mahawar"],
+	"answer": "B. Khan Abdul Gaffar Khan"
+},
+{
+	"question": "First private train in India run between which of the two cities?",
+	"options": ["A. Delhi-Lucknow", 
+		"B. Delhi-Ahmedabad", 
+		"C. Both of the above route", 
+		"D. None of the above"],
+	"answer": "A. Delhi-Lucknow"
+},
+{
+	"question": "As per a latest report by Brand Finance 2019, which is the India's most valuable brand?",
+	"options": ["A. Reliance", 
+		"B. Tata Group", 
+		"C. State Bank of India", 
+		"D. Flipkart"],
+	"answer": "B. Tata Group"
+},
+{
+	"question": "At the end of March 2019, what was the amount of India's external debt?",
+	"options": ["A. US $ 540 billion", 
+		"B. US $ 543 billion", 
+		"C. US $ 547 billion", 
+		"D. US $ 541 billion"],
+	"answer": "B. US $ 543 billion"
+},
+{
+	"question": "'LIBRA' an alternative of existing cryptocurrency like bitcoin is being developed by?",
+	"options": ["A. Facebook", 
+		"B. Google", 
+		"C. Microsoft", 
+		"D. None of the above"],
+	"answer": "A. Facebook"
+},
+{
+	"question": "In which year was Sports Authority of India established?",
+	"options": ["A. 1952", 
+		"B. 1967", 
+		"C. 1993", 
+		"D. 1982"],
+	"answer": "D. 1982"
+},
+{
+	"question": "Headquater of International Olympic Committee is situated at?",
+	"options": ["A. Athens", 
+		"B. Lausanne", 
+		"C. Dubai", 
+		"D. None of the above"],
+	"answer": "B. Lausanne"
+},
+{
+	"question": "'The Coalition Years' is the autobiography of?",
+	"options": ["A. L.K Advani", 
+		"B. Pranab Mukherjee", 
+		"C. Atal Behari Vajpayee", 
+		"D. Sonia Gandhi"],
+	"answer": "B. Pranab Mukherjee"
+},
+{
+	"question": "Entomology studies what?",
+	"options": ["A. Behavior of human beings",
+		"B. Insects",
+		"C. The origin and history of technical and scientific terms",
+		"D. The formation of rocks"],
+	"answer": "B. Insects"
+},
+{
+	"question": "Who is the father of geometry?",
+	"options": ["A. Aristotle",
+		"B. Euclid",
+		"C. Pythagoras",
+		"D. Kepler"],
+	"answer": "B. Euclid"
+},
+{
+	"question": "Who was associated with the creation of pentium chip?",
+	"options": ["A. Arun Netravalli",
+		"B. Sabeer Bhatia",
+		"C. Vinod Dham",
+		"D. Vijay Dham"],
+	"answer": "C. Vinod Dham"
+},
+{
+	"question": "Which is the first search engine of the internet?",
+	"options": ["A. Yahoo",
+		"B. Wais",
+		"C. Archie",
+		"D. Mozilla"],
+	"answer": "C. Archie"
+},
+{
+	"question": "In a Database Management System(DBMS) the content and the location of data is identified by ?",
+	"options": ["A. Subdata",
+		"B. Sequence Data",
+		"C. Beta Data",
+		"D. Meta Data"],
+	"answer": "D. Meta Data"
+},
+{
+	"question": "Who founded Indian National Army(INA)?",
+	"options": ["A. Netaji Subhas Chandra Bose",
+		"B. Mohan Singh",
+		"C. Rash Behari Bose",
+		"D. Jatridranath Mukherjee"],
+	"answer": "B. Mohan Singh"
+},
+{
+	"question": "The control of which state was handed over to british after marriage of King Charles 2 with portuguese princess in 1661?" ,
+	"options": ["A. Cochin",
+		"B. Bombay",
+		"C. Surat",
+		"D. Madras"],
+	"answer": "B. Bombay"
+},
+{
+	"question": "The Indian, who holds the pride of beating the computers in mathematical wizard is?",
+	"options": ["A. Shakuntala Devi",
+		"B. Raja Ramanna",
+		"C. Ramanujam",
+		"D. Rina Panigrahi"],
+	"answer": "A. Shakuntala Devi"
+}]
